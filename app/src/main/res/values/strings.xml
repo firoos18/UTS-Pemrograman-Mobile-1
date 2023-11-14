@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">uts1</string>
+    <string name="uad">Universitas Ahmad Dahlan</string>
+    <string name="beranda">BERANDA</string>
+    <string name="editProfile">EDIT PROFILE</string>
+    <string name="appbarTitle">Sistem Informasi Akademik</string>
+    <string name="krs">KRS</string>
+    <string name="jadwal">JADWAL</string>
+    <string name="khs">KHS</string>
+    <string name="bantuan">BANTUAN</string>
+    <string name="setelan">SETELAN</string>
+    <string name="kuliah">KULIAH</string>
+    <string name="name">Naufal Firoos Asy Syarif</string>
+</resources>
